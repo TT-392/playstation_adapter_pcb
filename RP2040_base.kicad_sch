@@ -8,6 +8,7 @@
     (title "RP2040 Base")
     (date "2023-07-22")
     (rev "0.1")
+    (company "https://github.com/TT-392/RP2040-base")
   )
 
   (lib_symbols
@@ -673,6 +674,8 @@
   (junction (at 255.27 31.75) (diameter 0) (color 0 0 0 0)
     (uuid f83f3964-112d-4b83-b106-0debd9d05b14)
   )
+
+  (no_connect (at 170.18 151.13) (uuid 28c3f51f-8780-4198-b347-059e9e67679d))
 
   (wire (pts (xy 95.25 147.32) (xy 105.41 147.32))
     (stroke (width 0) (type default))
