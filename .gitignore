@@ -1,0 +1,4 @@
+RP2040_base-backups/
+*.bak
+*.kicad_prl
+fp-info-cache
