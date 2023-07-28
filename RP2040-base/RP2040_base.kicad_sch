@@ -1357,7 +1357,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid aac66b8d-bdda-405c-ad5a-46d206cd9a92)
   )
-  (hierarchical_label "GPIO19_ADC3" (shape bidirectional) (at 204.47 148.59 0) (fields_autoplaced)
+  (hierarchical_label "GPIO29_ADC3" (shape bidirectional) (at 204.47 148.59 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid acfeedd0-3104-40a9-9c27-19dcd50a26d4)
   )
