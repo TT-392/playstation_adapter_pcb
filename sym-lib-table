@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rp2040_base")(type "KiCad")(uri "/home/emile/Creation/pcb/syncthing/RP2040_base_example/RP2040-base/RP2040_base.kicad_sym")(options "")(descr ""))
+)

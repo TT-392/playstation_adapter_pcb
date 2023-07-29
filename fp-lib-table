@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RP2040_base")(type "KiCad")(uri "${KIPRJMOD}/RP2040-base/RP2040_base_libs/RP2040_base.pretty")(options "")(descr ""))
+)
