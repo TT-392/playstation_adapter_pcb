@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RP2040-base example")
+    (date "2023-07-30")
+    (rev "0.9")
+    (company "https://github.com/TT-392/RP2040-base-example")
+  )
+
   (lib_symbols
     (symbol "Connector:USB_C_Receptacle_USB2.0" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -10.16 19.05 0)

@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "RP2040-base example")
+    (date "2023-07-30")
+    (rev "0.9")
+    (company "https://github.com/TT-392/RP2040-base-example")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -1467,7 +1474,7 @@
     (property "ki_keywords" "flash memory SPI")
     (path "/2299e57c-14a4-4719-9f94-b062d186075b/3efec22c-56a3-4b3d-9ec9-55db97f12e04")
     (attr smd)
-    (fp_text reference "Ur" (at 3.59 0) (layer "F.SilkS") hide
+    (fp_text reference "U4" (at 3.59 0) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 65e64f26-ca36-4a5d-aa80-ffb0fea8d951)
     )
