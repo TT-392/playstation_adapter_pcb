@@ -6,7 +6,7 @@
 
   (title_block
     (title "RP2040 Base")
-    (date "2023-07-25")
+    (date "2023-07-30")
     (rev "0.3")
     (company "https://github.com/TT-392/RP2040-base")
   )
