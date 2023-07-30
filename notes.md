@@ -2,6 +2,7 @@
 Not compliant with jlcpcb design rules
 no explanation about the flash chip
 Crystal is no longer a basic part? there seems to be a different 12MHz crystal in its place
+jlcpcb doesn't have basic 27 ohm resistors
 
 # Improvements
 C4 could use a sligghtly better position (giving more space to GPIO0-7
