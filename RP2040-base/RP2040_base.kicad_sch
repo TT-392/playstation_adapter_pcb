@@ -1822,7 +1822,7 @@
     (pin "1" (uuid a7b0425e-ce18-4017-812f-eed13edf62e6))
     (pin "2" (uuid 4bbbe0c8-3a8a-4376-a568-81748e65c28b))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C12") (unit 1)
         )
@@ -1858,7 +1858,7 @@
     (pin "1" (uuid fe0c09b1-164a-4599-ac46-59627ef9fcf2))
     (pin "2" (uuid bd9ad3c2-2940-4a86-9d79-e74d61c63a22))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "R5") (unit 1)
         )
@@ -1897,7 +1897,7 @@
     (pin "1" (uuid 48a5b715-5114-4c47-863f-5a2707699fad))
     (pin "2" (uuid 133d5fea-daa2-4d90-91d2-9b8250a0953e))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C10") (unit 1)
         )
@@ -1936,7 +1936,7 @@
     (pin "1" (uuid c21f4e00-e618-4407-84e4-52a9a92c674c))
     (pin "2" (uuid 2e1ab878-b13b-42f5-94ea-0d44d94b5fe1))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C5") (unit 1)
         )
@@ -1972,7 +1972,7 @@
     (pin "1" (uuid 93e14868-12df-4a66-9a84-df63253a6b2a))
     (pin "2" (uuid acf1e933-ae73-4898-ae2b-8b2886ce6b8e))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C18") (unit 1)
         )
@@ -2063,7 +2063,7 @@
     (pin "8" (uuid e1df12ed-802d-4332-a0eb-7df9ee7ea212))
     (pin "9" (uuid 459a0b12-e5d5-494f-9cf8-0b1e14cb90fd))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "U3") (unit 1)
         )
@@ -2106,7 +2106,7 @@
     (pin "7" (uuid 36ed38cd-9e0d-4b75-a889-eeac75515022))
     (pin "8" (uuid c0c1b854-5cca-4a3d-8757-b6e1f383655c))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "U4") (unit 1)
         )
@@ -2137,7 +2137,7 @@
     (pin "1" (uuid 07ea5582-ca1e-4842-bc22-00a301725112))
     (pin "2" (uuid 6f7b3a37-88fa-464a-9804-4d383bb56fb4))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "R6") (unit 1)
         )
@@ -2176,7 +2176,7 @@
     (pin "1" (uuid fa3ae2c4-47ec-437a-acfb-57078c42b226))
     (pin "2" (uuid 6130f57b-b2c7-422b-9aa4-a1a470a049d8))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C6") (unit 1)
         )
@@ -2215,7 +2215,7 @@
     (pin "1" (uuid 0d31c557-2503-4c31-a22f-0688600cf08d))
     (pin "2" (uuid e3cc0d63-97f7-4518-9f19-7267f18760db))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C4") (unit 1)
         )
@@ -2254,7 +2254,7 @@
     (pin "1" (uuid 04973c0b-6766-4cac-ae48-fbb18b675ffb))
     (pin "2" (uuid 2cd559f6-a8e1-4c76-824e-47a272e2076f))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C8") (unit 1)
         )
@@ -2290,7 +2290,7 @@
     (pin "1" (uuid 8ed144bf-1208-43a0-9d8b-8b5f93e4677c))
     (pin "2" (uuid cfd23c3b-b1db-4e31-babe-a8b75d98142e))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "R4") (unit 1)
         )
@@ -2326,7 +2326,7 @@
     (pin "1" (uuid 476a7318-b4b3-4432-a7d8-9eec02b8d060))
     (pin "2" (uuid b503c8d9-ead1-4fcb-8c1a-66ee0384ca06))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C17") (unit 1)
         )
@@ -2365,7 +2365,7 @@
     (pin "1" (uuid 2ebe6b3d-5a57-41b1-8774-d3ddbf3f95a5))
     (pin "2" (uuid 9d819ae6-4f60-44a3-a9d0-b875fa5d06e7))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C11") (unit 1)
         )
@@ -2404,7 +2404,7 @@
     (pin "1" (uuid 5c2d84dd-e647-415c-95a4-29dee1beace9))
     (pin "2" (uuid 1303891b-d060-489a-9234-9b1c45061c91))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C7") (unit 1)
         )
@@ -2440,7 +2440,7 @@
     (pin "1" (uuid 12064fd9-f85a-46f9-aed6-a9d5253ac125))
     (pin "2" (uuid ee3224d9-2871-4b4c-9f1c-517131786b79))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C16") (unit 1)
         )
@@ -2482,7 +2482,7 @@
     (pin "1" (uuid ec3df8dc-ba32-407d-85c1-d0eb37c98c28))
     (pin "2" (uuid 24e6fe4f-7f2e-4ac8-a926-efb4cd7a30ab))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C14") (unit 1)
         )
@@ -2518,7 +2518,7 @@
     (pin "1" (uuid c00539b5-ec6d-4fd1-9f9f-0fa920392f2f))
     (pin "2" (uuid 05f243ca-49ff-4d8b-9017-2879014fff09))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "R3") (unit 1)
         )
@@ -2557,7 +2557,7 @@
     (pin "1" (uuid f2e41e86-6cd1-476b-b923-651b0e05b1f6))
     (pin "2" (uuid b1a413ce-2386-4cc2-8c4d-f1fc21891143))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C3") (unit 1)
         )
@@ -2599,7 +2599,7 @@
     (pin "1" (uuid 7587a50b-2a65-44ac-8367-51660318c332))
     (pin "2" (uuid b4c1c3c0-8146-4cd6-9c5e-5645feb49fef))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C13") (unit 1)
         )
@@ -2638,7 +2638,7 @@
     (pin "1" (uuid 1a4d59af-c41d-4ad8-9cbe-f2c57e7b1bf9))
     (pin "2" (uuid 798e15bf-0d9c-4637-85d6-eac1375aa0cc))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C9") (unit 1)
         )
@@ -2680,7 +2680,7 @@
     (pin "1" (uuid 5a353b1c-512d-48c4-aeee-02aa071cb155))
     (pin "2" (uuid bf83e9ae-5109-4fc1-8d34-3c3f02f3e9e5))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "SW1") (unit 1)
         )
@@ -2719,7 +2719,7 @@
     (pin "3" (uuid 14aabfb5-a027-4a26-9efb-4d90a01e4cbf))
     (pin "4" (uuid ccaf7134-84fa-4fac-a5a5-018cae28c605))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "Y1") (unit 1)
         )
@@ -2755,7 +2755,7 @@
     (pin "1" (uuid fa2426c2-1713-4f31-9bc1-79f6788f13a2))
     (pin "2" (uuid a5ba29c2-ebaa-432b-ae5b-ac7cb896047b))
     (instances
-      (project "RP2040_base_example"
+      (project "playstation_adapter"
         (path "/15ffa1ba-ab82-476e-9a5f-146bf8ecc883/2299e57c-14a4-4719-9f94-b062d186075b"
           (reference "C15") (unit 1)
         )
